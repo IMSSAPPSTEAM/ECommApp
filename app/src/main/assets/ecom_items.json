@@ -1,0 +1,34 @@
+{
+  "ecom_items": [
+    {
+      "Category": "Grocery",
+      "Item name": "Dal",
+      "Price": "150",
+      "Image name": "https://static.pexels.com/photos/169047/pexels-photo-169047-medium.jpeg"
+    },
+    {
+      "Category": "Dairy & Beverages",
+      "Item name": "Bread",
+      "Price": "40.00",
+      "Image name": "https://static.pexels.com/photos/169047/pexels-photo-169047-medium.jpeg"
+    },
+    {
+      "Category": "Packaged Food",
+      "Item name": "Maggie",
+      "Price": "10.00",
+      "Image name": "https://static.pexels.com/photos/169047/pexels-photo-169047-medium.jpeg"
+    },
+    {
+      "Category": "Skin Care",
+      "Item name": "Fair and lovely",
+      "Price": "75.00",
+      "Image name": "https://static.pexels.com/photos/169047/pexels-photo-169047-medium.jpeg"
+    },
+    {
+      "Category": "Home & Kitchen",
+      "Item name": "Prestige cooker",
+      "Price": "1500.00",
+      "Image name": "https://static.pexels.com/photos/169047/pexels-photo-169047-medium.jpeg"
+    }
+  ]
+}
